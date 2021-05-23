@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "internal_public", "lunar_csgo_recode\lunar_csgo_recode.vcxproj", "{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|csgo = debug|csgo
+		lunaralphabuild|csgo = lunaralphabuild|csgo
+		lunardevbuild|csgo = lunardevbuild|csgo
+		lunarpeasantbuild|csgo = lunarpeasantbuild|csgo
+		release|csgo = release|csgo
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.debug|csgo.ActiveCfg = debug|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.debug|csgo.Build.0 = debug|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunaralphabuild|csgo.ActiveCfg = lunaralphabuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunaralphabuild|csgo.Build.0 = lunaralphabuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunardevbuild|csgo.ActiveCfg = lunardevbuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunardevbuild|csgo.Build.0 = lunardevbuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunarpeasantbuild|csgo.ActiveCfg = lunarpeasantbuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.lunarpeasantbuild|csgo.Build.0 = lunarpeasantbuild|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.release|csgo.ActiveCfg = release|Win32
+		{5E8589E1-1E0B-4C19-8BE3-325C9E2B7176}.release|csgo.Build.0 = release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B928FA4-1974-4654-86B2-02407B06C5B2}
+	EndGlobalSection
+EndGlobal
